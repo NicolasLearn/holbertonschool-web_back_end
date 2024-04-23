@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ This module define the type-annotated function element_length(). """
 from typing import Iterable, Sequence, Tuple, List
 

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ This module define the type-annotated function sum_list(). """
 from typing import List
 
