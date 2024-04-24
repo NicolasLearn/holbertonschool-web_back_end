@@ -20,7 +20,7 @@ async def wait_n(n: int, max_delay: int) -> List[float]:
     """
     list_random_delay = list()
     # On each iteration, generate random async task, and adds it at the list.
-    for i in range(n):
+    for _ in range(n):
         list_random_delay.append(wait_random(max_delay))
 
     # Return a list of each async task completed, in ascending order.
