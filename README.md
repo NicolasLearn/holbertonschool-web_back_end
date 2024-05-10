@@ -5,4 +5,6 @@
 ## Project python_async_function_comprehension
 ## Project NoSQL
 ## Project Pagination
+## Project ES6_Basic
+## Project ES6_classes
 
