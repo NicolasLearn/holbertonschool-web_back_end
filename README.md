@@ -8,3 +8,5 @@
 ## Project ES6_Basic
 ## Project ES6_classes
 ## Project ES6_promise
+## Project ES6_data_manipulation
+
